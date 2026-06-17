@@ -43,7 +43,7 @@ firebase:
   credentials-path: ${FIREBASE_CREDENTIALS:src/main/resources/firebase-service-account.json}
 
 twilio:
-  account-sid: ${TWILIO_ACCOUNT_SID:ACxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx}
+  account-sid: ${TWILIO_ACCOUNT_SID:ACxxxxxxxxxxxxxxxxxxxxxxxxxx}
   auth-token: ${TWILIO_AUTH_TOKEN:your_auth_token}
   from-number: ${TWILIO_FROM_NUMBER:+1234567890}
 
