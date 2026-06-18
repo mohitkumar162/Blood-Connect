@@ -13,7 +13,8 @@ A real-time blood donor finder built with React + Spring Boot.
 - Docker Desktop → https://docker.com
 
 ### Description	Value
-Spring Boot	Parent version in pom.xml	<version>3.2.0</version>,
+Spring Boot	Parent version in pom.xml	
+<version>3.2.0</version>
 Java version property	<java.version>17</java.version>,
 Lombok version property	<lombok.version>1.18.40</lombok.version>,
 Compiler release tag	<release>17</release>
